@@ -1,0 +1,44 @@
+Java 8 - Method References
+--------------------------
+Method references help to point to methods by their names. A method reference is described using :: (double colon) symbol. A method reference can be used to point the following types of methods −
+
+    Static methods
+    Instance methods
+    Constructors using new operator (TreeSet::new)
+
+Method Reference Example
+
+Let's look into an example of method referencing to get a more clear picture. Write the following program in an code editor and match the results.
+Java8Tester.java
+
+import java.util.List;
+import java.util.ArrayList;
+
+public class Java8Tester {
+   public static void main(String args[]){
+      List names = new ArrayList();
+		
+      names.add("aaa");
+      names.add("bbb");
+      names.add("ccc");
+		
+      names.forEach(System.out::println);
+   }
+}
+
+Here we have passed System.out::println method as a static method reference.
+Verify the Result
+
+Compile the class using javac compiler as follows −
+
+$javac Java8Tester.java
+
+Now run the Java8Tester as follows −
+
+$java Java8Tester
+
+It should produce the following output −
+
+aaa
+bbb
+ccc

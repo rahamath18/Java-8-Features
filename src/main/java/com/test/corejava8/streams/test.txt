@@ -1,0 +1,5 @@
+Stream is a util class in java.nio.file pkg
+Stream provides many ready made funtions to process filess and strings
+enjoy!!!
+don't print
+don't stream

@@ -1,0 +1,19 @@
+New features in Java SE 8
+-------------------------
+Lambda Expressions
+Pipelines and Streams
+Date and Time API
+Default Methods
+Interface Default and Static Methods
+Method Reference
+Parameters Name
+
+Streams
+Concurrency
+
+Type Annotations
+Nashhorn JavaScript Engine [http://www.tutorialspoint.com/java8/java8_nashorn.htm]
+Concurrent Accumulators
+Parallel operations
+PermGen Error Removed -> https://www.infoq.com/articles/Java-PERMGEN-Removed
+TLS SNI
