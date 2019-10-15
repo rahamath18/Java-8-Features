@@ -7,7 +7,7 @@ What is Method Reference?
     ❷ Instance method
     ❸ Constructor 
 
-Refer the code @ 
+Refer the code @ https://github.com/rahamath18/Java-8-Features/blob/master/src/main/java/com/test/corejava8/methodreference/Java8_Feature_MethodReference.java
 
 ### Output of this example
 
