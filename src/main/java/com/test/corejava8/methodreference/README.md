@@ -11,6 +11,6 @@ Refer the code @
 
 ### Output of this example
 
-APPLE is a fruit OK
-BANANA is a fruit OK
+APPLE is a fruit OK</br>
+BANANA is a fruit OK</br>
 CARROT is a fruit OK
